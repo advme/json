@@ -1,0 +1,10 @@
+{
+  "bullets": [
+    {
+      "id": "player_shot",
+      "speed": 15,
+      "origin": [0, 1, 0],
+      "target": [10, 1, 0]
+    }
+  ]
+}
